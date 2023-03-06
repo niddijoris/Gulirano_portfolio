@@ -6,3 +6,27 @@ body {
     background-color: #edf7fa;
 }
 
+
+.image > img {
+    width: 243px;
+}
+
+.span__bg {
+    background-color: #142850;
+}
+
+.social__span{
+    display: inline-block;
+    text-align: center;
+}
+
+.social__span a{
+    text-decoration: none;
+    margin: 20px 30px;
+    display: inline-block;
+}
+
+.social__span i{
+    font-size: 48px;
+    color: #142850;
+}
